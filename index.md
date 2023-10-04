@@ -1,4 +1,3 @@
-<!DOCTYPE markdown>
 Hello World
 # **My portfolio**
 ## **_ПІБ та контактні дані_**
