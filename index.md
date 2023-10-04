@@ -13,4 +13,4 @@ Hello World
 ### [Проект 2](https://github.com/ShepelM1/PR1/tree/main/LAB2)
 ### [Проект 3](https://github.com/ShepelM1/ShepelM1.github.io)
 ## Посилання на соц.мережі
-### [Telegram](t.me/tSoYN1)
+### [Telegram](https/t.me/tSoYN1)
