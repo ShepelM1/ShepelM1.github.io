@@ -16,5 +16,5 @@
 3. [Проект 3](https://github.com/ShepelM1/ShepelM1.github.io)
 
 ### Посилання на соц.мережі
-[Телеграм](https://t.me/tSoYN1)
+> [Телеграм](https://t.me/tSoYN1)
 
